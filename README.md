@@ -18,7 +18,7 @@
 </a>
 
 <br />
-
+<br />
 
 Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 from Kenya, currently, I'm a collaborating in developing a python module for [Equity Bank Apis(Jenga Api)](https://github.com/justabeginner-team/EquityApi), I'm enthusiastic in giving solutions to problems through programming  👨🏽‍💼. Beside's programming, I enjoy swimming ,watching series,listening house & tecno musics and travelling .
 
@@ -46,7 +46,8 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gathuaalex)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<div align="right">[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -73,7 +74,7 @@ Celery     3 mins          ░░░░░░░░░░░░░░░░░�
 
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gathuaalex&show_icons=true&theme=flag-india" alt="gathuaalex" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=gathuaalex&show_icons=true&theme=flag-india" alt="gathuaalex" />
 
 
 
