@@ -1,7 +1,8 @@
-<div align="center">
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</div>
 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br />
+<br />
 
 <a href="https://twitter.com/alex_gathua">
   <img align="left" alt="AlexGathua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,11 +18,15 @@
 </a>
 
 <br />
+<br />
+<br />
 
 Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 from Kenya, currently, I'm a collaborating in developing a python module for [Equity Bank Apis(Jenga Api)](https://github.com/justabeginner-team/EquityApi), I'm enthusiastic in giving solutions to problems through programming  👨🏽‍💼. Beside's programming, I enjoy swimming ,watching series,listening house & tecno musics and travelling .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+<br />
+<br />
+<br />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool;
@@ -29,7 +34,9 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@alex_gathua](https://twitter.com/alex_gathua);
 <!-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)-->
-
+<br />
+<br />
+<br />
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -37,7 +44,9 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br />
+<br />
+<br />
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -48,7 +57,10 @@ Shell      5 mins          ▒░░░░░░░░░░░░░░░░�
 Celery     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 <!--END_SECTION:waka-->
-</br>
+
+<br />
+<br />
+<br />
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
           
