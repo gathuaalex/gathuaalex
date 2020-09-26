@@ -44,8 +44,9 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 <br />
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gathuaalex)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+<div align="right">[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)<div />
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -58,8 +59,7 @@ Celery     3 mins          ░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br />
-<br />
-<br />
+
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
           
