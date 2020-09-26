@@ -4,7 +4,7 @@
 <br />
 <br />
 
-<a href="https://twitter.com/alex_gathua">
+<!--<a href="https://twitter.com/alex_gathua">
   <img align="left" alt="AlexGathua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alex-gathua-774300193/">
@@ -15,7 +15,7 @@
 </a>
 <a href="https://www.instagram.com/gathua_alex/">
   <img align="left" alt="Alex's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>-->
 
 <br />
 <br />
@@ -46,7 +46,7 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gathuaalex)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gathuaalex)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gathuaalex)](https://github.com/anuraghazra/github-readme-stats)-->
 <br />
 
 
