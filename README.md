@@ -48,18 +48,8 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 <br />
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Django     8 hrs 16 mins   ███████████████████░░░░░░   73.45 % 
-Python     2 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Shell      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Celery     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-```
-<!--END_SECTION:waka-->
 
-<br />
+
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -74,7 +64,7 @@ Celery     3 mins          ░░░░░░░░░░░░░░░░░�
 
 <summary>📈 My GitHub Stats</summary>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=gathuaalex&show_icons=true&theme=flag-india" alt="gathuaalex" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gathuaalex&show_icons=true&theme=flag-india" alt="gathuaalex" />
 
 
 
