@@ -18,15 +18,13 @@
 </a>
 
 <br />
-<br />
-<br />
+
 
 Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 from Kenya, currently, I'm a collaborating in developing a python module for [Equity Bank Apis(Jenga Api)](https://github.com/justabeginner-team/EquityApi), I'm enthusiastic in giving solutions to problems through programming  👨🏽‍💼. Beside's programming, I enjoy swimming ,watching series,listening house & tecno musics and travelling .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
-<br />
-<br />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool;
@@ -35,8 +33,7 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 - 📫 How to reach me: [@alex_gathua](https://twitter.com/alex_gathua);
 <!-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)-->
 <br />
-<br />
-<br />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -46,6 +43,8 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 <br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
