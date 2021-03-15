@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 from Kenya, currently, I'm a collaborating in developing a python module for [Equity Bank Apis(Jenga Api)](https://github.com/justabeginner-team/EquityApi), I'm enthusiastic in giving solutions to problems through programming  👨🏽‍💼. Beside's programming, I enjoy swimming ,watching series,listening house & tecno musics and travelling .
+Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Python,Javascript Developer 🚀 from Kenya, currently, I'm a collaborating in developing a mobile app with flutter and server side handled with python django,django restframework, I'm enthusiastic in giving solutions to problems through programming  👨🏽‍💼. Beside's programming, I enjoy swimming ,watching series,listening house & tecno musics and travelling .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
@@ -26,7 +26,7 @@ Hi, I'm [Alex Gathua](my-resum.herokuapp.com/home), a Full Stack Developer 🚀 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool;
-- 🌱 I’m currently learning Arduino and Python; 
+- 🌱 I’m currently learning NLP and ARDUINO; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@alex_gathua](https://twitter.com/alex_gathua);
 <!-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)-->
