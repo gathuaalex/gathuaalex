@@ -1,5 +1,8 @@
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+[![wakatime](https://wakatime.com/badge/user/762a2bb7-c608-48c3-96f8-21a83e06e07c.svg)](https://wakatime.com/@762a2bb7-c608-48c3-96f8-21a83e06e07c)
+[![twitter](https://img.shields.io/twitter/follow/gathuaalex?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/alex_gathua)
+[![github](https://img.shields.io/github/followers/gathuaalex?logo=github&style=plastic)](https://github.com/gathuaalex?tab=followers)
 
 <br />
 <!--<a href="https://twitter.com/alex_gathua">
