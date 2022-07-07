@@ -3,7 +3,6 @@
 [![wakatime](https://wakatime.com/badge/user/762a2bb7-c608-48c3-96f8-21a83e06e07c.svg)](https://wakatime.com/@762a2bb7-c608-48c3-96f8-21a83e06e07c)
 [![twitter](https://img.shields.io/twitter/follow/gathuaalex?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/alex_gathua)
 [![github](https://img.shields.io/github/followers/gathuaalex?logo=github&style=plastic)](https://github.com/gathuaalex?tab=followers)
-
 <br />
 <!--<a href="https://twitter.com/alex_gathua">
   <img align="left" alt="AlexGathua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
